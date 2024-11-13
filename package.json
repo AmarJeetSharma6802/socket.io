@@ -1,0 +1,21 @@
+{
+  "name": "socket-io",
+  "version": "1.0.0",
+  "description": "first time i am making real time chat web  ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "nodemon index.js"
+  },
+  "author": "Amarjeet sharma",
+  "license": "ISC",
+  "dependencies": {
+    "and": "^0.0.3",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "socket.io": "^4.8.1",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
